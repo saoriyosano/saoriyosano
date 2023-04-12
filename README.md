@@ -1,17 +1,16 @@
-### Hello there 👋
+# Hello 👋 I'm Saori
 
 
-<!--
-**saoriyosano/saoriyosano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Data scientist  
 
-Here are some ideas to get you started:
+📍 Based in Tokyo  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💊 Background in healthcare market research + data analysis  
+
+🗣️ Bilingual in English and Japanese  
+
+🔥 Passionate about solving problems with data  
+
+🌿 Interest in using data for climate change and sustainability  
+
+👀 View my <a href = "https://saoriyosano.notion.site/Saori-Yosano-69cbf95c8d9b49cea145b7e4c9dde0f3">portfolio</a>  
